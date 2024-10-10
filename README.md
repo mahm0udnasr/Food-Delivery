@@ -1,8 +1,53 @@
-# React + Vite
+# Food Delivery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Food Delivery is a web application that allows users to browse and order food from various restaurants. This project provides a user-friendly interface for customers to explore menus, place orders, and enjoy a seamless food delivery experience.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the live demo: [Food Delivery App](https://food-delivery-sigma-nine.vercel.app/)
+
+## Features
+
+- Browse food list
+- Add items to cart
+- Adjust quantities and remove items from cart
+- Place orders
+- User authentication
+- Responsive design for mobile and desktop
+
+## Technologies Used
+
+- React
+- HTML, CSS, javascript
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/mahm0udnasr/Food-Delivery.git
+   ```
+
+2. Navigate to the project directory:
+   ```
+   cd Food-Delivery
+   ```
+
+3. Install the dependencies:
+   ```
+   npm install
+   ```
+
+4. Run the development server:
+   ```
+   npm run dev
+   ```
+
+5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
+6. 
+## Contact
+
+Mahmoud Nasr - [Email](mailto:contact.mahmoudnasr@gmail.com)
+
+Project Link: [Food-Delivery](https://github.com/mahm0udnasr/Food-Delivery)
