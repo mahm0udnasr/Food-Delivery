@@ -1,6 +1,6 @@
 # Food Delivery
 
-Food Delivery is a web application that allows users to browse and order food from various restaurants. This project provides a user-friendly interface for customers to explore menus, place orders, and enjoy a seamless food delivery experience.
+Food Delivery is a web application that allows users to browse and order food. This project provides a user-friendly interface for customers to explore menus, place orders, and enjoy a seamless food delivery experience.
 
 ## Demo
 
