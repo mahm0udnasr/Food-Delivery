@@ -45,9 +45,9 @@ To run this project locally, follow these steps:
    ```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
-6. 
+
 ## Contact
 
-Mahmoud Nasr - [Email](mailto:contact.mahmoudnasr@gmail.com)
+Mahmoud Nasr - [Telegram](https://t.me/mahm0udnasr)
 
 Project Link: [Food-Delivery](https://github.com/mahm0udnasr/Food-Delivery)
